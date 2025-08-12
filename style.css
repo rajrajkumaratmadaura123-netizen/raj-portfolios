@@ -7,7 +7,7 @@ body {
 header {
   background: linear-gradient(to right, #0033cc, #00ccff);
   color: white;
-  padding: 5px 15px; /* minimal vertical padding */
+  padding: 5px 15px; 
   text-align: left;
   line-height: 1.1;
 }
@@ -71,7 +71,7 @@ footer {
 }
 
 .name-section h1 {
-  font-size: 2rem;       
+  font-size: 1'6rem;       
   font-weight: 600;      
   margin: 0;
 }
@@ -83,4 +83,11 @@ footer {
   font-size: 2rem;
   line-height: 1.2;
 }
+.main-name {
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+
+
+
 
