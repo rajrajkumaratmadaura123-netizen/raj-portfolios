@@ -7,9 +7,11 @@ body {
 header {
   background: linear-gradient(to right, #0033cc, #00ccff);
   color: white;
-  padding: 15px 20px;
+  padding: 10px 20px; /* less vertical padding */
   text-align: left;
+  line-height: 1.2; /* tighter line spacing */
 }
+
 .profile {
   text-align: left;
   margin-left: 30px;
