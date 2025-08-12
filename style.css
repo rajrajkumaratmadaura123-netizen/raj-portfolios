@@ -48,8 +48,8 @@ footer {
   display: flex;
   align-items: center;
   gap: 10px;
-  padding: 10px 15px;
-  margin-left: -10px; /* shift left by 10px */
+  padding: 5px 15px;
+  margin-left: -30px; /* shift left by 30px */
 }
 
 
