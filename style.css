@@ -10,9 +10,19 @@ header {
   padding: 20px;
   text-align: center;
 }
+.profile {
+  text-align: left;
+  margin-left: 20px;
+}
+
 .profile img {
-  width: 120px;
+  width: 150px;
   border-radius: 50%;
+  float: left;
+  margin-right: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
 }
 nav a {
   margin: 0 15px;
