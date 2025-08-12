@@ -7,9 +7,9 @@ body {
 header {
   background: linear-gradient(to right, #0033cc, #00ccff);
   color: white;
-  padding: 5px 10px; /* less vertical padding */
+  padding: 5px 15px; /* minimal vertical padding */
   text-align: left;
-  line-height: 1.2; /* tighter line spacing */
+  line-height: 1.1;
 }
 
 .profile {
