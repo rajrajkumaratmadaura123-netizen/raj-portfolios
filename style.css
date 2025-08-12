@@ -47,17 +47,18 @@ footer {
 .container {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 5px; /* पहले 10px था, अब कम किया ताकि नाम पास आए */
   padding: 5px 15px;
-  margin-left: -30px; /* shift left by 30px */
+  margin-left: -30px;
 }
 
-
 .profile-section {
-  flex: 1;
+  flex: 0 0 auto; /* फोटो का साइज fix किया ताकि नाम उसके पास आए */
 }
 
 .name-section {
-  flex: 2;
+  flex: 1;
   text-align: left;
+  margin-left: 0; /* अगर पहले कोई left margin था तो हटा दें */
 }
+
