@@ -42,3 +42,18 @@ footer {
   background: #0033cc;
   color: white;
 }
+.container {
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+  padding: 20px;
+}
+
+.profile-section {
+  flex: 1;
+}
+
+.content-section {
+  flex: 2;
+}
+
