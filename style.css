@@ -45,7 +45,7 @@ footer {
 .container {
   display: flex;
   align-items: flex-start;
-  gap: 40px;
+  gap: 20px;
   padding: 20px;
 }
 
